@@ -1,4 +1,4 @@
-# Assignment1.c - Multi-Process Communication Using Pipes
+# Multi-Process Communication Using Pipes
 
 This C program demonstrates multi-process communication using pipes. It creates a parent process that communicates with multiple child processes through a pipe. The parent process sends a message to the child processes, and each child process receives and displays the message.
 
